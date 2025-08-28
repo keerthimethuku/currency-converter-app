@@ -1,2 +1,3 @@
-# Currency-Converter
-Developed a real-time currency converter that fetches exchange rates using a free API. The application allows users to convert currencies based on country codes and displays corresponding country flags for better visualization. Integrated a free API to fetch real-time currency exchange rates.
+# Currency Converter App
+A simple and responsive Currency Converter Web App that allows users to convert values between different currencies in real-time using a free exchange rate API.
+
