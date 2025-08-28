@@ -10,3 +10,7 @@ A simple and responsive Currency Converter Web App that allows users to convert 
  Responsive design – works on desktop and mobile.
 
  Lightweight and fast – built with HTML, CSS, JavaScript.
+
+ ## 📷 Screenshot
+![App Screenshot](screenshot.png)
+
