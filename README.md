@@ -11,6 +11,7 @@ A simple and responsive Currency Converter Web App that allows users to convert 
 
  Lightweight and fast – built with HTML, CSS, JavaScript.
 
- ## 📷 Screenshot
-![App Screenshot](screenshot.png)
+ # Screenshot
+ ![App Screenshot](/screenshot.png)
+
 
